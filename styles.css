@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+}
+.mar {
+  border: 1px solid #4c7cbc;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+li {
+  list-style: none;
+}
+.units {
+  font-size: medium;
+}
